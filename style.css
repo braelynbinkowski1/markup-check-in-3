@@ -1,0 +1,30 @@
+/*Style sheet for the resume */
+
+.line-space{
+    margin-top: 0;
+    margin-bottom: 0;
+}
+.line-space-break{
+    margin-top:0;
+    margin-bottom:1;
+}
+h1{
+    color:rgb(255, 80, 80);
+    background-color: rgb(255, 209, 209);
+    font-family:Didot, serif
+    }
+h2{
+    color:coral;
+    background-color: rgb(250, 247, 210);
+    font-family:Didot, serif
+}
+h3{
+    color:coral;
+    font-family:Didot, serif 
+}
+ul{
+    font-family:Didot, serif
+}
+p{
+    font-family:Didot, serif
+}
